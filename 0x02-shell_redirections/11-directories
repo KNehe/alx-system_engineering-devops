@@ -1,3 +1,2 @@
 #!/bin/bash
- find ./* -name ".*" -type d  -or -type d | wc -l
- 
+find ./* -name ".*" -type d  -or -type d | wc -l

@@ -21,7 +21,6 @@ if __name__ == '__main__':
 
     file = "{}.json".format(arg)
 
-    todo_dict = {}
     dict_list = []
     for item in todos:
         todo_dict['task'] = item.get('title')
